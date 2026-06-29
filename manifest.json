@@ -2,7 +2,7 @@
   "name": "VIM Store — داتابەیسی کڕینەکان",
   "short_name": "VIM Store",
   "description": "VIM Foundation Purchase Records Database",
-  "start_url": "./VIM_Store_Database-10.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0F0F0F",
   "theme_color": "#C8102E",
